@@ -1,0 +1,145 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Queene. The Queenes Maiesty being giuen to vnderstand, that sundry lewde and sedicious bruites haue bene lately spread and caryed abroade in many shires of the realme by some vnquiet and factious spirits ...</title>
+            <title>Proclamations. 1587-02-06</title>
+            <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1587</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 3 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21836</idno>
+            <idno type="STC">STC 8162</idno>
+            <idno type="STC">ESTC S118295</idno>
+            <idno type="EEBO-CITATION">99853502</idno>
+            <idno type="PROQUEST">99853502</idno>
+            <idno type="VID">18886</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21836)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 18886)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 884:09)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Queene. The Queenes Maiesty being giuen to vnderstand, that sundry lewde and sedicious bruites haue bene lately spread and caryed abroade in many shires of the realme by some vnquiet and factious spirits ...</title>
+                  <title>Proclamations. 1587-02-06</title>
+                  <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+                  <author>Elizabeth I, Queen of England, 1533-1603.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>By Christopher Barker, printer to the Queenes most excellent Maiestie,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>[1587]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publication date from STC.</note>
+                  <note>The date in the title is old style--STC.</note>
+                  <note>Against rumors of sedition.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sedition --  England --  Early works to 1800.</term>
+               <term>England --  Proclamations --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:18886:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 13 -->
+            <head>
+               <figure>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <head>
+               <g ref="char:leaf">❧</g> By the Queene.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Queenes Maieſty being giuen to vnderſtand, that ſundry lewde and ſedicious bruites haue bene lately ſpread and caryed abroade in many Shires of the Realme by ſome vnquiet and factious ſpirits, who, vnder diuers falſe and colourable ſuggeſtions, put into ſimple Billettes in writing, &amp; tending to the diſturbance of common peace, haue trauayled her good and louing ſubiects in diuers partes of her ſayd Realme, by Huies and cries followed from place to place, with<g ref="char:EOLhyphen"/>out warrant or direction from any Iuſtice of peace, or name of any ſpeciall Officer reſident within the ſayde Shires, who in ſuch caſes ought to haue bene informed thereof. Albeit her Maieſtie doe greatly commende the loue, care and affection of her good ſubiectes, who haue ſhewed ſo great a readineſſe to imploy their trauayles vpon this occaſion in the reſpect of her ſeruice, pretended by ſuch writinges and <unclear>bruites</unclear>: yet finding the ſame to proceede originally from the meere practiſe of ſome ſedicious inſtruments, diſpoſed to lay holde vpon any pretexte that may be offred them to trouble the peace of her ſaid Realme, by ſtirring vp ſuch of their owne humours as are apt to tumult and alteration, Her Maieſtie hath thought good to notifie &amp; declare to all her louing ſubiects, that as ſhee doth moſt <gap reason="illegible" extent="3+ letters">
+                  <desc>•••…</desc>
+               </gap>ly hold the inuentors thereof worthie of extreme puniſhment, ſo doth ſhe alſo condemne the ſprea<g ref="char:EOLhyphen"/>ding and carying of the ſayd bruites in the next degree, both tending to the diſquiet and trouble of her ſaid realme and ſubiects. And therefore by this her proclamation, her Maieſtie doth expreſſely com<g ref="char:EOLhyphen"/>mand all Lieutenants of Shires, Sherifs, Iuſtices, and other her Maieſties, Offices and Mini<g ref="char:EOLhyphen"/>ſters, both in townes corporate and all other places whatſoeuer, to whome in this caſe it may apper<g ref="char:EOLhyphen"/>tarne, that they do not onely take preſent order for the ſpeedie ceaſſing of all ſuch bruites and rumors, with the hewes and cryes, and the extraordinarie watches growing thereof, within the Countries and circuites vnder their ſeuerall charges, but alſo cauſe forthwith diligent inquirie to bee made of the Authors of the ſame: and if any ſuch be found, ſeuerely to puniſh them as ſeditious perturbers of the common quiet. And that all Conſtables hereafter that ſhall firſt receiue any ſuch report or charge for making of ſuch hewe and cry, or for ſetting of ſuch extraordinary watches, take care to ſtay the firſt author to be anſwerable thereto as there ſhalbe cauſe, vpon payne of beeing otherwiſe puni<g ref="char:EOLhyphen"/>ſhed himſelfe, as the firſt author and inuentor thereof.</p>
+            <closer>
+               <dateline>Giuen at our Manour of Greenewich, <date>the vi. day of of Februarie, 1586. in the nine and twentieth yeere of our raigne.</date>
+               </dateline>
+               <lb/>
+God ſaue the Queene.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Imprinted at London by Chriſtopher Barker, Printer to the Queenes moſt ex<g ref="char:EOLhyphen"/>cellent Maieſtie.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
